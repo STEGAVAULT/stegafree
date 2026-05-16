@@ -99,12 +99,12 @@ The app shows rotating cybersecurity advice — simple, practical tips to keep y
 
 ```
 ✅  photo.png    →  Safe, works perfectly
-❌  photo.jpg    →  Will DESTROY your hidden message
+✅️. photo.jpg    →  Will DESTROY your hidden message
 ❌  photo.webp   →  Will DESTROY your hidden message
 ```
 
-JPEG and WebP compress images by slightly changing pixel colours to save space.
-This **destroys** the hidden bits. **Always use PNG.**
+WEBP compress images by slightly changing pixel colours to save space.
+This **destroys** the hidden bits. **Always use PNg and JPEG
 
 ---
 
@@ -113,9 +113,6 @@ This **destroys** the hidden bits. **Always use PNG.**
 These apps **automatically recompress** every photo you send, which destroys the hidden message.
 
 ```
-❌  WhatsApp  →  send as photo      →  Message destroyed
-❌  Telegram  →  send as photo      →  Message destroyed
-❌  Instagram →  any post/story     →  Message destroyed
 
 ✅  Email     →  any attachment     →  Safe
 ✅  Telegram  →  send as FILE       →  Safe  ← important difference!
